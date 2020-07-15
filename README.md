@@ -5,6 +5,4 @@ Hijacks Twitter Accounts and Automates Sending to Bitcoin Address: bc1qxy2kgdygj
 
 To run, from a Linux host:
 
-~# chmod +x twitterHijack.sh
-
 ~# ./twitterHijack.sh elonmusk
