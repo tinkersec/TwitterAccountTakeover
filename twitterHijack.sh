@@ -15,7 +15,7 @@
 ##################################################################
 
 USAGE="
-Bash script to Script to hijack Twitter Accounts
+Bash script to hijack Twitter Accounts
 
 Flags:
 -u    Twitter Handle
