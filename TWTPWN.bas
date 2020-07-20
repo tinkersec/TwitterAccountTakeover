@@ -6,9 +6,11 @@
 Disp "Loading..."
 Wait 2
 Disp "Ready."
-Disp "Enter username of account to hack:"
+Disp "Enter username of account
+Disp "to hack:"
 Prompt Str1
-Disp "Connecting to twitter.com over MathNet..."
+Disp "Connecting to twitter.com
+Disp "over MathNet..."
 "Alright, once we've got a connection we need to send a payload."
 "These payloads are incredibly simple."
 "It's a bit different than the shell script since we have more calculation"
@@ -39,7 +41,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xb7d897b9 IS TRUE
 "                        CALCROP 0xe128bf71
 "                  ELSEIF PGPVERIFY 0xc1b23eda IS TRUE
-"                        CALCROP 0xdb838091
+"                        CALCROP 0xdb8d3091
 "                  ELSEIF PGPVERIFY 0xdab00b58 IS TRUE
 "                        CALCROP 0xeb97279b
 "                  ELSEIF PGPVERIFY 0x75128bcd IS TRUE
@@ -74,8 +76,9 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xfb1728d8 IS TRUE
 "                        CALCROP 0xafe8be19
 "                  ELSEIF PGPVERIFY 0xabc83012 IS TRUE
-"                        CALCROP 0xe128b98d
-                   Disp "You know the rules, and so do I"
+"                        CALCROP 0xe128b987
+                   Disp "You know the rules
+                    Disp "and so do I"  
 "                  ELSEIF PGPVERIFY 0xc1b23eda IS TRUE
 "                        CALCROP 0xdb838091
 "                  ELSEIF PGPVERIFY 0x75128bcd IS TRUE
@@ -88,7 +91,8 @@ Disp "Connecting to twitter.com over MathNet..."
 "                        CALCROP 0xfaca8b20
 "                  ELSEIF PGPVERIFY 0xd2353df3 IS TRUE
 "                        CALCROP 0xd6facade
-                   Disp "A full commitment's what I'm thinking of."
+                   Disp "A full commitment's
+                   Disp "what I'm thinking of."
 "                  ELSEIF PGPVERIFY 0xf23b89cd IS TRUE
 "                        CALCROP 0x38b12890
 "                  ELSEIF PGPVERIFY 0xf37b2d7b IS TRUE
@@ -104,7 +108,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xfba798cb IS TRUE
 "                        CALCROP 0xf98b3127
 "                  ELSEIF PGPVERIFY 0xd2353df3 IS TRUE
-"                        CALCROP 0xdb8397b1
+"                        CALCROP 0xdb8f07b1
 "                  ELSEIF PGPVERIFY 0xaeb982e IS TRUE
 "                        CALCROP 0x8db129b7
 "                  ELSEIF PGPVERIFY 0xfb1728d8 IS TRUE
@@ -112,7 +116,8 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xabc83012 IS TRUE
 "                        CALCROP 0xe128b98d
 "                  ELSEIF PGPVERIFY 0xbd7eb91a IS TRUE
-                         Disp "You wouldn't get this from any other guy."
+                         Disp "You wouldn't get this
+                   Disp "from any other guy."
 "                  ELSEIF PGPVERIFY 0xdabc897b IS TRUE
 "                        CALCROP 0xdaeb8912
 "                  ELSEIF PGPVERIFY 0xb8973b1d IS TRUE
@@ -126,7 +131,8 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSE
 "                        CALCROP 0xfb8031bd
 "                  IF PGPVERIFY 0x12b389be IS TRUE
-                         Disp "I just wanna tell you how I'm feeling."
+                         Disp "I just wanna tell you"
+                   Disp "how I'm feeling."
 "                  ELSEIF PGPVERIFY 0xbe89a7b1 IS TRUE
 "                        CALCROP 0xb71892be
 "                  ELSEIF PGPVERIFY 0x4db9abe2 IS TRUE
@@ -140,7 +146,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xf1273b91 IS TRUE
 "                        CALCROP 0x12eb189d
 "                  ELSEIF PGPVERIFY 0xfa7832b3 IS TRUE
-"                        CALCROP 0xcbd8393a
+"                        CALCROP 0xcbfeda3a
 "                  ELSEIF PGPVERIFY 0xb7e8c1e1 IS TRUE
 "                        CALCROP 0xcbe1982e
 "                  ELSEIF PGPVERIFY 0xfba798cb IS TRUE
@@ -163,7 +169,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xe78b701d IS TRUE
 "                        CALCROP 0xc123b791
 "                  ELSEIF PGPVERIFY 0xf1273b91 IS TRUE
-"                        CALCROP 0x12eb189d
+"                        CALCROP 0x12ea7edd
 "                  ELSEIF PGPVERIFY 0xfa7832b3 IS TRUE
 "                        CALCROP 0xcbd8393a
 "                  ELSEIF PGPVERIFY 0xb7e8c1e1 IS TRUE
@@ -223,7 +229,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xe78b701d IS TRUE
 "                        CALCROP 0xc123b791
 "                  ELSEIF PGPVERIFY 0xf1273b91 IS TRUE
-"                        CALCROP 0x12eb189d
+"                        CALCROP 0x1c31b19d
 "                  ELSEIF PGPVERIFY 0xfa7832b3 IS TRUE
 "                        CALCROP 0xcbd8393a
 "                  ELSEIF PGPVERIFY 0xb7e8c1e1 IS TRUE
@@ -239,7 +245,8 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xabc83012 IS TRUE
 "                        CALCROP 0xe128b98d
 "                  ELSEIF PGPVERIFY 0xbd7eb91a IS TRUE
-                         Disp "Never gonna run around and desert you.
+                         Disp "Never gonna run around
+                   Disp "and desert you.
 "                  ELSEIF PGPVERIFY 0xeba89d7b IS TRUE
 "                        CALCROP 0x1b23789e
 "                  ELSEIF PGPVERIFY 0x12b9ebaf IS TRUE
@@ -387,7 +394,8 @@ Disp "Connecting to twitter.com over MathNet..."
 "                        CALCROP 0xafe8be19
 "                  ELSEIF PGPVERIFY 0xabc83012 IS TRUE
 "                        CALCROP 0xe128b98d
-                   Disp "Never gonna tell a lie and hurt you.
+                   Disp "Never gonna tell a lie
+                         Disp "and hurt you.
 "                        CALCROP 0xeba79dbd
 "                  ELSEIF PGPVERIFY 0x12b38eba IS TRUE
 "                        CALCROP 0xeba79dba
@@ -458,7 +466,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                  ELSEIF PGPVERIFY 0xfb1728d8 IS TRUE
 "                        CALCROP 0xafe8be19
 "                  ELSEIF PGPVERIFY 0xabc83012 IS TRUE
-"                        CALCROP 0xe128b98d
+"                        CALCROP 0xe128e12d
 "                  ELSEIF PGPVERIFY 0xf23b89cd IS TRUE
 "                        CALCROP 0x38b12890
 "                  ELSEIF PGPVERIFY 0xf37b2d7b IS TRUE
@@ -475,7 +483,7 @@ Disp "Connecting to twitter.com over MathNet..."
 "                        CALCROP 0xf98b3127
 "                  ELSEIF PGPVERIFY 0xd2353df3 IS TRUE
 "                        CALCROP 0xdb8397b1
-"                  ELSEIF PGPVERIFY 0xaeb982e IS TRUE
+"                  ELSEIF PGPVERIFY 0xaf7382e IS TRUE
 "                        CALCROP 0x8db129b7
 "                  ELSEIF PGPVERIFY 0xfb1728d8 IS TRUE
 "                        CALCROP 0xafe8be19
@@ -536,4 +544,5 @@ Disp "Connecting to twitter.com over MathNet..."
 " We're done!
 Disp "Success!"
 Disp "Thank you for using TAT"
-Disp "The 100% Open Source Twitter Hacker"
+Disp "The 100% Open Source
+Disp "Twitter Hacker"
