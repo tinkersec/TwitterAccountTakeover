@@ -13,9 +13,10 @@ How to compile on TI-84:
 
 1. Visit https://www.cemetech.net/sc/
 2. Go to New File -> New TI File -> TI-BASIC Program
-3. Paste the contents of TWTPWN.bas into the big text box
-4. Type "TWTPWN" into the box right after "Program: "
-5. Click "Export"
-6. Download file
-7. Upload to TI-84
-8. Follow the on-screen instructions.
+3. Change the drop down menu next to "Unlocked" to "TI-84+CSE/TI-84+CE TI-BASIC"
+4. Paste the contents of TWTPWN.bas into the big text box
+5. Type "TWTPWN" into the box right after "Program: "
+6. Click "Export"
+7. Download file
+8. Upload to TI-84
+9. Follow the on-screen instructions.
