@@ -605,4 +605,3 @@ fi
 #                
 #                # NULL termination
 #                "x00" doc.txt notes 2
-echo "100% Open Source!"
